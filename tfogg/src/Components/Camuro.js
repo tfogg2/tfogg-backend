@@ -7,8 +7,8 @@ class Camuro extends Component {
 
       <div className="camuro page">
         <Fade left>
-          <a href="https://www.camuro.co" alt="camuro.co" target="_blank">
-            <span>.001</span>
+          <a href="#" alt="camuro.co" target="_blank">
+            <span>.002</span>
             <img src={require('../Assets/camuro-mockup.svg')} alt="camuro mockup" />
             <div className="page-info">
               <p>Co-Founder, Designer & Developer</p>

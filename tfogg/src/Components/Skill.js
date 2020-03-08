@@ -8,7 +8,7 @@ class Skill extends Component {
       <div className="skill page">
         <Fade left>
           <a href="https://github.com/tfogg2/tfogg-backend" alt="tfogg.com on github" target="_blank">
-            <span>.004</span>
+            <span>.005</span>
             <div className="icons">
               <div className="icon"><img src={require('../Assets/icons.svg')} alt="skill icons"/></div>
             </div>

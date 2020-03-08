@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import _ from 'lodash'
 import Landing from './Landing'
 import Camuro from './Camuro'
+import CaptionWriter from './CaptionWriter'
 import Freedash from './Freedash'
 import Abundant from './Abundant'
 import Skill from './Skill'
@@ -14,6 +15,7 @@ class Home extends Component {
     return(
       <div className="content">
         <Landing />
+        <CaptionWriter />
         <Camuro />
         <Freedash />
         <Abundant />
